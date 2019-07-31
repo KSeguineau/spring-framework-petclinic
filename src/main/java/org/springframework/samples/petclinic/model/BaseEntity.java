@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 package org.springframework.samples.petclinic.model;
-
+// test pour jenkins
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
